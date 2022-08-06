@@ -7,7 +7,7 @@ This the backend server for the Lilly task of creating a webapp to authenticate 
 Install the required depencies using
 
 ```
-npm install
+yarn install
 ```
 
 Export the following env variables with appropiate values
